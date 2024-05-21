@@ -33,4 +33,6 @@ npx prisma init
 npx prisma migrate dev
 # gen types
 npx prisma generate
+# 画面確認
+npx prisma studio
 ~~~
